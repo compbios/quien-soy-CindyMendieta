@@ -23,3 +23,6 @@ Tengo experiencia en *Nutrición Clínica* en el marco de Grupos de Soporte Meta
 *Nutrición 🍨 , Inmunonutrición 🧬 , Epidemiología Clínica 🔍 , Cáncer :crab: .*
 
 ***
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcGPk1CisXVUQTKvCwCTp5kMJvVHYYvKOVA&usqp=CAU.jpg" width="250" height="250" />
+<hr/>
