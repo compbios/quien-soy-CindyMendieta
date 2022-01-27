@@ -1,15 +1,4 @@
-Hola soy **Fabián Gil**
 
-
-
-
-
-
-
-Soy *estadístico* y Bioestadístico
-
-***
-***
 Hola
 
 Mi nombre es **_Cindy_**, soy *Nutricionista Dietista* y estudiante de tercer semestre de la *Maestría en Epidemiología Clínica*.
